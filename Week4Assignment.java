@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 //Jessica Sit
 import java.util.Scanner;
 public class Week4Assignment 
